@@ -1,0 +1,21 @@
+html {
+    background-color: #F7F7F7;
+    text-align: center;
+    font-family: 'roboto', sans-serif
+}
+
+#main {
+    color: #393E46;
+}
+
+a {
+    color: #6D9886
+}
+
+p {
+    color: #393E46
+}
+
+img {
+    border: #F2E7D5 dashed 5px
+}
